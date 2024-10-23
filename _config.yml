@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xu Yang"
+  name             : "XuYang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
   email            : "1067382252@stu.xjtu.edu.cn" 
